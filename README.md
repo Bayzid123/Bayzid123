@@ -12,21 +12,16 @@ Skills:  C# / .NET Core / SQL / REACT / JS / HTML / CSS
 - 📫 How to reach me: bayzid18103384@gmail.com 
 
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; gap: 10px;">
   <a href="https://github.com/Bayzid123"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-
   <a href="https://www.linkedin.com/in/md-bayzid/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-
   <a href="https://www.facebook.com/bayzid.hossainshahed/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
-
   <a href="https://www.instagram.com/bayzid_shahed/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png"/></a>
-
   <a href="https://twitter.com/shahed_bayzid"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-
   <a href="https://stackoverflow.com/users/12415382/bayzid-hossain-shahed"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
-
   <a href="https://www.youtube.com/@BHSVlogs"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </div>
+
 
 
 
