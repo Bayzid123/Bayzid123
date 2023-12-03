@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Bayzid. 
 ####  A passionate Software Engineer.
 
-I'm a software engineer with over two years of experience developing and maintaining software applications. I have a strong background in C#, .NET Core, ReactJS, and Store Procedure and have worked on projects ranging from ERP Software, HR-Management, Shipping Management, etc. I'm passionate about solving complex problems and creating innovative solutions that meet the needs of my clients or organization. Nice to meet you!"
+I'm a software engineer with over three years of experience developing and maintaining software applications. I have a strong background in C#, .NET Core, ReactJS, and Store Procedure and have worked on projects ranging from ERP Software, HR-Management, Shipping Management, etc. I'm passionate about solving complex problems and creating innovative solutions that meet the needs of my clients or organization. Nice to meet you!"
 
 Skills:  C# / .NET Core / SQL / REACT / JS / HTML / CSS 
 
